@@ -1,6 +1,7 @@
 ![Header](./github-header-image.png)<h1 align="center">Hi 👋, I'm Talha Sher</h1>
 <h3 align="center">A passionate MERN stack web developer from Pakistan</h3>
-<a align="center" href="talhasher.netlify.app">Portfolio</a>
+<p align="center"><a href="[https://talhasher.netlify.app](https://talhasher.netlify.app)">Portfolio</a></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhasher" alt="talhasher" /></a> </p>
 
