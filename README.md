@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **excaliburx9090@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with m:</h3>
 <p align="left">
 </p>
 
