@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)<h1 align="center">Hi 👋, I'm Talha Sher</h1>
-<h3 align="center">A passionate MERN stack web developer from Pakistan</h3>
+<h3 align="center">A passionate MERN stack web developer</h3>
 <p align="center"><a href="https://talhasher.netlify.app">Portfolio</a></p>
 
 
