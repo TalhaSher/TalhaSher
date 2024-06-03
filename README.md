@@ -1,6 +1,5 @@
 ![Header](./github-header-image.png)<h1 align="center">Hi 👋, I'm Talha Sher</h1>
 <h3 align="center">A passionate MERN stack web developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TalhaSher&label=Profile%20views&color=0e75b6&style=flat" alt="ihaseebullah" /> </p>
 <p align="center"><a href="https://talhasher.netlify.app">Portfolio</a></p>
 
 
