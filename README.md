@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhasher" alt="talhasher" /></a> </p>
 
-- 💬 Ask me about **React js, Node , Express, Mongo db, Python and Flutter**
+- 💬 Ask me about **React js, Node , Express, Mongo db, React Native ,Python and Flutter**
 
 - 📫 How to reach me **excaliburx9090@gmail.com**
 
