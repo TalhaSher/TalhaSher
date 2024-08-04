@@ -4,6 +4,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhasher" alt="talhasher" /></a> </p>
+<script src="https://tryhackme.com/badge/1172176"></script>
 
 - 💬 Ask me about **React js, Node , Express, Mongo db, React Native ,Python and Flutter**
 
