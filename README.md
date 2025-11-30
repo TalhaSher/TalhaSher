@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React js, Node , Express, Mongo db, React Native ,Python and Flutter**
 
-- 📫 How to reach me **excaliburx9090@gmail.com**
+- 📫 How to reach me **excalibur@gmail.com**
 
 
 <p align="left">
