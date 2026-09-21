@@ -1,6 +1,5 @@
 ![Header](./github-header-image.png)<h1 align="center">Hi 👋, I'm Talha Sher</h1>
 <h3 align="center">A passionate Web & Mobile App Developer</h3>
-<p align="center"><a href="https://talhasher.netlify.app">Portfolio</a></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhasher" alt="talhasher" /></a> </p>
@@ -9,7 +8,7 @@
 
 - 💬 Ask me about **React js, Node , Express, Mongo db, React Native ,Python and Flutter**
 
-- 📫 How to reach me **excalibur@gmail.com**
+- 📫 How to reach me **talhasherkhn@gmail.com**
 
 
 <p align="left">
